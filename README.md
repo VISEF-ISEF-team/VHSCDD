@@ -10,11 +10,11 @@ Bệnh lý tim mạch là nguyên nhân gây tử vong hàng đầu trên thế 
 
 |  |  |  |
 |----------|----------|----------|
-| ![img](ImagesDisplay\Display1.png) | ![img](ImagesDisplay\Display2.png) | ![img](ImagesDisplay\Display3.png) |
-| ![img](ImagesDisplay\Display4.png) | ![img](ImagesDisplay\Display5.png) | ![img](ImagesDisplay\Display6.png) |
-| ![img](ImagesDisplay\Display7.png) | ![img](ImagesDisplay\Display8.png) | ![img](ImagesDisplay\Display9.png) |
-| ![img](ImagesDisplay\Display10.png) | ![img](ImagesDisplay\Display11.png) | ![img](ImagesDisplay\Display12.png) |
-| ![img](ImagesDisplay\Display13.png) | ![img](ImagesDisplay\Display14.png) | ![img](ImagesDisplay\Display15.png) |
-| ![img](ImagesDisplay\Display16.png) | ![img](ImagesDisplay\Display17.png) | ![img](ImagesDisplay\Display18.png) |
-| ![img](ImagesDisplay\Display19.png) | ![img](ImagesDisplay\Display20.png) | ![img](ImagesDisplay\Display21.png) |
+| ![img](ImagesDisplay/Display1.png) | ![img](ImagesDisplay/Display2.png) | ![img](ImagesDisplay/Display3.png) |
+| ![img](ImagesDisplay/Display4.png) | ![img](ImagesDisplay/Display5.png) | ![img](ImagesDisplay/Display6.png) |
+| ![img](ImagesDisplay/Display7.png) | ![img](ImagesDisplay/Display8.png) | ![img](ImagesDisplay/Display9.png) |
+| ![img](ImagesDisplay/Display10.png) | ![img](ImagesDisplay/Display11.png) | ![img](ImagesDisplay/Display12.png) |
+| ![img](ImagesDisplay/Display13.png) | ![img](ImagesDisplay/Display14.png) | ![img](ImagesDisplay/Display15.png) |
+| ![img](ImagesDisplay/Display16.png) | ![img](ImagesDisplay/Display17.png) | ![img](ImagesDisplay/Display18.png) |
+| ![img](ImagesDisplay/Display19.png) | ![img](ImagesDisplay/Display20.png) | ![img](ImagesDisplay/Display21.png) |
 
